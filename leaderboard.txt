@@ -1,0 +1,6 @@
+admin;password;120
+oozing;saucey420;170
+TomTheFish;password;0
+MahonMountain;password;90
+TheBest;limbingOut4ever;30
+newUser;12345678;0
